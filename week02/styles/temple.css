@@ -9,15 +9,20 @@ header {
     padding: 8px;
     text-align: center;
 }
+main {
+    align-content: center;
+}
 img {
     width: 150 px;
     height: auto;
     border-radius:  1px #333;
     padding: 2px;
     box-shadow: 0 0 30px gray;
+    align-items: center;
 }
 section {
     text-box-edge: 0 0 30px gray;
+    align-content: center;
 }
 footer {
     background-color: #333;
