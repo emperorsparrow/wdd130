@@ -10,7 +10,7 @@ header {
     text-align: center;
 }
 main {
-    align-content: center;
+    text-align: center;
 }
 img {
     width: 150 px;
@@ -18,11 +18,11 @@ img {
     border-radius:  1px #333;
     padding: 2px;
     box-shadow: 0 0 30px gray;
-    align-items: center;
+    align-content: center;
 }
 section {
     text-box-edge: 0 0 30px gray;
-    align-content: center;
+    text-align: center;
 }
 footer {
     background-color: #333;
