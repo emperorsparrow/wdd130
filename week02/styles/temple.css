@@ -5,7 +5,7 @@ head {
 header {
     background-color: #333;
     color: white;
-    text-size-adjust: 8;
+    text-size-adjust: 18;
     padding: 8px;
     text-align: center;
 }
@@ -13,7 +13,7 @@ main {
     text-align: center;
 }
 img {
-    width: 150 px;
+    width: 130 px;
     height: auto;
     border-radius:  1px #333;
     padding: 2px;
@@ -23,11 +23,12 @@ img {
 section {
     text-box-edge: 0 0 30px gray;
     text-align: center;
+    text-wrap: 20;
 }
 footer {
     background-color: #333;
     color: white;
-    text-size-adjust: 5;
+    text-size-adjust: 12;
     padding: 6;
     text-align: center;
 }
