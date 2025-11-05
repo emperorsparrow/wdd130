@@ -12,9 +12,12 @@ header {
 img {
     width: 150 px;
     height: auto;
-    border: 1px solid black;
+    border-radius:  1px #333;
     padding: 2px;
     box-shadow: 0 0 30px gray;
+}
+section {
+    text-box-edge: 0 0 30px gray;
 }
 footer {
     background-color: #333;
