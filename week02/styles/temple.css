@@ -6,7 +6,7 @@ header {
     background-color: #333;
     color: white;
     text-size-adjust: 18;
-    padding: 8px;
+    padding: 20px;
     text-align: center;
 }
 main {
@@ -23,12 +23,12 @@ img {
 section {
     text-box-edge: 0 0 30px gray;
     text-align: center;
-    text-wrap: 20;
+    text-wrap: 47;
 }
 footer {
     background-color: #333;
     color: white;
     text-size-adjust: 12;
-    padding: 6;
+    padding: 14;
     text-align: center;
 }
