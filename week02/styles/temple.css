@@ -1,10 +1,11 @@
 head {
         align-content: center;
+        text-align: center;
 }
 header {
-    background-color: black;
+    background-color: darkslategray;
     color: white;
-    padding: 10px;
+    padding: 8px;
     text-align: center;
 }
 img {
@@ -13,4 +14,10 @@ img {
     border: 1px solid black;
     padding: 2px;
     box-shadow: 0 0 30px gray;
+}
+footer {
+    background-color: darkslategray;
+    color: white;
+    padding: 4;
+    text-align: center;
 }
