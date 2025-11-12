@@ -9,12 +9,11 @@
 
 <body>
     <h1>My First Page</h1>
-<<<<<<< HEAD
-    <p>My favorite color is: GREEN
-        I AM LEARNING WEB DEVELOPMENT </p>
-=======
-    <p>My favorite color is: green and i love nature. </p>
->>>>>>> 451a627eff43ad03823d45a825d507edd1e6dc2e
+    <p>My favorite color is: Green and i love nature. </p>
+    <p>This a comparison between a snapchat jxl photo. </p>
+    <p>And a snapchat jpg photo.</p>
+    <img src="../images/Snapchat-jpg.jpg" alt="The Salt Lake Temple">
+
 </body>
 
 </html>

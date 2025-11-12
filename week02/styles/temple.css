@@ -1,0 +1,38 @@
+html template{
+    text-align: center;
+}
+
+head {
+        align-content: center;
+        text-align: center;
+}
+header {
+    background-color: #333;
+    color: white;
+    text-size-adjust: 18;
+    padding: 20px;
+    text-align: center;
+}
+main {
+    text-align: center;
+}
+img {
+    width: 130 px;
+    height: auto;
+    border-radius:  1px #333;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+    align-content: center;
+}
+section {
+    text-box-edge: 0 0 30px gray;
+    text-align: center;
+    text-wrap: 47;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-size-adjust: 12;
+    padding: 14;
+    text-align: center;
+}
