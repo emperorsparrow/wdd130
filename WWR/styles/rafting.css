@@ -51,10 +51,11 @@ h1, h2 {
 
 .hero {
     position: relative;
+    float: left;
 }
 
 .hero img {
-    display: block;
+    display: grid;
     width: 100%;
     height: auto;
 }
