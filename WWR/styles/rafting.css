@@ -7,6 +7,11 @@
     --body-font: Arial, Helvetica, Sans-serif;
 }
 
+header {
+    background-color: aqua;
+    color: var(--accent2-color);
+}
+
 * {
     margin: 0;
     padding: 0;
