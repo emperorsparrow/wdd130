@@ -35,13 +35,13 @@ h1, h2 {
 
 .socialmedia a {
     text-decoration: none;
-    
+    position: relative;
 }
 
-a image { /*i added this because my social media icon were large*/
+/*a image { /*i added this because my social media icon were large
     width: 10%; 
     height: 10%;
-}
+}*/
 
 /*.hero {
     position: relative;
@@ -74,6 +74,5 @@ article {
 }
 
 main {
-    background-color: aqua;
-
+    background-color: rgb solid (rgb(255, 0, 0), rgb(34, 175, 34), rgb(8, 8, 90));
 }
