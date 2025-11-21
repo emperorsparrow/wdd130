@@ -21,6 +21,7 @@ body {
 header, main, footer {
     width: 840px;
     margin: 0 auto;
+    padding: 20px;
 }
 
 h1, h2 {
@@ -38,15 +39,15 @@ h1, h2 {
     position: relative;
 }
 
-/*a image { /*i added this because my social media icon were large
+/*a image {i added this because my social media icon were large
     width: 10%; 
     height: 10%;
 }*/
 
-/*.hero {
+.hero {
     position: relative;
 }
-*/
+
 .hero img {
     display: block;
     width: 100%;
