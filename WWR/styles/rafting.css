@@ -1,8 +1,8 @@
 :root {
     --primary-color: green;
     --secondary-color: #333;
-    --accent1-color: #e9c46a;
-    --accent2-color: blue;
+    --accent1-color: #000;
+    --accent2-color: #e9c46a;
     --heading-font: "times new roman", "Georgia", "serif";
     --body-font: Arial, Helvetica, Sans-serif;
 }
