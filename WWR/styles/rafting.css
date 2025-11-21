@@ -2,7 +2,7 @@
     --primary-color: green;
     --secondary-color: #333;
     --accent1-color: #e9c46a;
-    --accent2-color: #ffffff;
+    --accent2-color: blue;
     --heading-font: "times new roman", "Georgia", "serif";
     --body-font: Arial, Helvetica, Sans-serif;
 }
@@ -71,7 +71,7 @@ article {
 
 .hero article img {
     float: right;
-    width: 125px;
+    width: 150px;
 }
 
 main {
