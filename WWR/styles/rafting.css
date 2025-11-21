@@ -28,13 +28,19 @@ h1, h2 {
     color: var(--primary-color);
 }
 
-nav, p, section, article {
+ p, section, article {
     margin: 16px;
     padding: 8px;
 }
 
 .socialmedia a {
     text-decoration: none;
+    
+}
+
+a image {
+    width: 10%;
+    height: 10%;
 }
 
 /*.hero {
