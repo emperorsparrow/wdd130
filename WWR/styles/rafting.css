@@ -38,8 +38,8 @@ h1, h2 {
     
 }
 
-a image {
-    width: 10%;
+a image { /*i added this because my social media icon were large*/
+    width: 10%; 
     height: 10%;
 }
 
