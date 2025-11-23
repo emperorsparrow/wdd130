@@ -1,7 +1,7 @@
 :root {
-    --primary-color: #3fe;
+    --primary-color: green;
     --secondary-color: #333;
-    --accent1-color: #add8e6;
+    --accent1-color: #000;
     --accent2-color: #e9c46a;
     --heading-font: "times new roman", "Georgia", "serif";
     --body-font: Arial, Helvetica, Sans-serif;
@@ -27,7 +27,6 @@ header, main, footer {
     width: 840px;
     margin: 0 auto;
     padding: 20px;
-    color: ;
 }
 
 h1, h2 {
@@ -65,11 +64,11 @@ h1 {
     position: absolute;
     top: 10px;
     width: 100%;
-    padding: 16px;
+    padding: 12px;
     text-align: center;
-    opacity: 0.2;
-    background-color: var(--accent1-color);
-    color: #333;
+    opacity: 0.5;
+    background-color: var(--accent2-color);
+    color: navy;
 }
 
 article {
